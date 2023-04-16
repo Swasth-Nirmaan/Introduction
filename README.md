@@ -25,7 +25,8 @@ The Swasth Nirmaan project was made possible thanks to the contributions of the 
 -   Devesh Shivane ([@DAS-15](https://github.com/DAS-15)): Developed the Swasth Nirmaan Android app.
 -   Prathamesh Araikar ([@PrathameshAraikar](https://github.com/PrathameshAraikar)): Developed the Swasth Nirmaan iOS app.
 -   Ansfred D'Souza ([@Ansfred](https://github.com/Ansfred)): Ansfred took charge of managing all the GCP services that our project was using. He also played a crucial role in developing the insurance recommendation system using the RandomForest Classifier, developed different visualizations of the application using Google's Data Studio and Python's Seaborn library, and provided valuable insights to the team to help manage various aspects of the project. 
--   Anas Ansari ([@anas-ansri](https://github.com/anas-ansri)): Developed cross-platform apps for doctors and blood banks using Flutter, enabling seamless access to medical records.
+-   Anas Ansari ([@anas-ansri](https://github.com/anas-ansri)): Developed cross-platform apps for doctors and blood banks using Flutter. He utilized his expertise in Flutter to create apps that seamlessly work across multiple devices and platforms, making it easier for doctors and blood banks to access and manage medical records.
+
 
 All team members collaborated on the design and development of the Swasth Nirmaan project, including the creation of the web interface for Health Service Providers and doctors, the dashboard for analyzing medical trends, and the recommendation system for health insurance plans.
 
