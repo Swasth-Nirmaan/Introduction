@@ -22,7 +22,7 @@ The Swasth Nirmaan project was made possible thanks to the contributions of the 
 
 -   Devesh Shivane ([@DAS-15](https://github.com/DAS-15)): Developed the Swasth Nirmaan Android app.
 -   Prathamesh Araikar ([@PrathameshAraikar](https://github.com/PrathameshAraikar)): Developed the Swasth Nirmaan iOS app.
--   Ansfred D'Souza ([@Ansfred](https://github.com/Ansfred)): Ansfred took charge of managing all the GCP services that our project was using. He also played a crucial role in backend development and provided valuable insights to the team to help manage various aspects of the project.
+-   Ansfred D'Souza ([@Ansfred](https://github.com/Ansfred)): Ansfred took charge of managing all the GCP services that our project was using. He also played a crucial role in developing the insurance recommendation system using the RandomForest Classifier, developed different visualizations of the application using Google's Data Studio and Python's Seaborn library, and provided valuable insights to the team to help manage various aspects of the project. 
 -   Anas Ansari ([@anas-ansri](https://github.com/anas-ansri)): Developed cross-platform apps for doctors and blood banks using Flutter, enabling seamless access to medical records.
 
 All team members collaborated on the design and development of the Swasth Nirmaan project, including the creation of the web interface for Health Service Providers and doctors, the dashboard for analyzing medical trends, and the recommendation system for health insurance plans.
@@ -63,4 +63,4 @@ Github Repo: <https://github.com/Swasth-Nirmaan/sn-bloodbanks>
 Conclusion
 ----------
 
-Swasth Nirmaan simplifies medical record storage and access with secure storage and user-friendly features. It offers specialized tools for doctors, health providers, blood banks, and insurance providers. The platform provides tailored health insurance recommendations and keeps users informed about current health trends. Overall, Swasth Nirmaan is a comprehensive solution for managing medical information easily and securely.
+Swasth Nirmaan is a comprehensive application that aims to simplify the process of storing and accessing medical records. With its secure storage, user-friendly interface, and features designed for Health Service Providers, doctors, bloodbanks, and insurance providers, Swasth Nirmaan offers a one-stop solution for managing medical information. The application allows users to easily store and access their medical records, receive recommendations for health-related insurances, and stay up-to-date on current health trends. Health Service Providers, doctors, and Blood Banks can use the web interface to access patient records and provide better care. The Recommendation System uses machine learning to provide tailored insurance recommendations based on user data. Overall, Swasth Nirmaan is a comprehensive solution that makes managing medical information simple, secure, and convenient.
