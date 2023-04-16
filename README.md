@@ -8,7 +8,7 @@ About Our Team
 
 We are a team of skilled developers who are passionate about creating innovative solutions for the healthcare industry. Meet our team members:
 
--   Anas Ansari ([`anas_ansri`](https://github.com/anas_ansri)) - Flutter expert with a knack for developing seamless cross-platform apps
+-   Anas Ansari ([`anas-ansri`](https://github.com/anas-ansri)) - Flutter expert with a knack for developing seamless cross-platform apps
 -   Ansfred D'Souza ([`Ansfred`](https://github.com/Ansfred)) - Proficient in Google Cloud, Python, and JavaScript, with experience in building applications using various frameworks and libraries
 -   Devesh Shivane ([`DAS-15`](https://github.com/DAS-15)) - Accomplished Android developer with strong skills in data structures, algorithms, Flask, and Firebase.
 -   Prathamesh Araikar ([`PrathameshAraikar`](https://github.com/PrathameshAraikar)) - Skilled iOS developer with a passion for SwiftUI
@@ -23,7 +23,7 @@ The Swasth Nirmaan project was made possible thanks to the contributions of the 
 -   Devesh Shivane ([@DAS-15](https://github.com/DAS-15)): Developed the Swasth Nirmaan Android app.
 -   Prathamesh Araikar ([@PrathameshAraikar](https://github.com/PrathameshAraikar)): Developed the Swasth Nirmaan iOS app.
 -   Ansfred D'Souza ([@Ansfred](https://github.com/Ansfred)): Ansfred took charge of managing all the GCP services that our project was using. He also played a crucial role in backend development and provided valuable insights to the team to help manage various aspects of the project.
--   Anas Ansari ([@anas_ansri](https://github.com/anas_ansri)): Developed cross-platform apps for doctors and blood banks using Flutter, enabling seamless access to medical records.
+-   Anas Ansari ([@anas-ansri](https://github.com/anas-ansri)): Developed cross-platform apps for doctors and blood banks using Flutter, enabling seamless access to medical records.
 
 All team members collaborated on the design and development of the Swasth Nirmaan project, including the creation of the web interface for Health Service Providers and doctors, the dashboard for analyzing medical trends, and the recommendation system for health insurance plans.
 
