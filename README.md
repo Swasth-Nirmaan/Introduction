@@ -3,6 +3,30 @@ Swasth Nirmaan
 
 Swasth Nirmaan is an application that aims to digitalize and standardize the medical records of the user, making it easier to access and share them with relevant parties. It includes a medical app that securely stores the medical records of the user, shows blood donation camps in their area, recommends the best health-related insurances for the user, and maintains a record of current vital medical information of its user. Additionally, it includes a web interface for Health Service Providers (HSP) and doctors to seek consent from the user to view and update their medical records, and for blood banks to announce the blood donation camps organized and sponsored by them. Finally, it includes a dashboard for companies that shows the current trends of chronic diseases in an Indian state and the medication taken by the users in a particular region.
 
+About Our Team
+--------------
+
+We are a team of skilled developers who are passionate about creating innovative solutions for the healthcare industry. Meet our team members:
+
+-   Anas Ansari ([`anas_ansri`](https://github.com/anas_ansri)) - Flutter expert with a knack for developing seamless cross-platform apps
+-   Ansfred D'Souza ([`Ansfred`](https://github.com/Ansfred)) - Proficient in Google Cloud, Python, and JavaScript, with experience in building applications using various frameworks and libraries
+-   Devesh Shivane ([`DAS-15`](https://github.com/DAS-15)) - Accomplished Android developer with strong skills in data structures, algorithms, Flask, and Firebase.
+-   Prathamesh Araikar ([`PrathameshAraikar`](https://github.com/PrathameshAraikar)) - Skilled iOS developer with a passion for SwiftUI
+
+Together, we have the skills and experience needed to create the best healthcare solutions out there.
+
+Contributions
+-------------
+
+The Swasth Nirmaan project was made possible thanks to the contributions of the following team members:
+
+-   Devesh Shivane ([@DAS-15](https://github.com/DAS-15)): Developed the Swasth Nirmaan Android app.
+-   Prathamesh Araikar ([@PrathameshAraikar](https://github.com/PrathameshAraikar)): Contributed to the development of the Swasth Nirmaan iOS app.
+-   Ansfred D'Souza ([@Ansfred](https://github.com/Ansfred)): Ansfred took charge of managing all the GCP services that our project was using. He also played a crucial role in backend development and provided valuable insights to the team to help manage various aspects of the project.
+-   Anas Ansari ([@anas_ansri](https://github.com/anas_ansri)): Developed the Swasth Nirmaan Flutter app for Android and iOS platforms, and contributed to the development of the Swasth Nirmaan Doctor app.
+
+All team members collaborated on the design and development of the Swasth Nirmaan project, including the creation of the web interface for Health Service Providers and doctors, the dashboard for analyzing medical trends, and the recommendation system for health insurance plans.
+
 Repositories
 ------------
 
