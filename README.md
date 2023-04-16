@@ -1,7 +1,7 @@
 Swasth Nirmaan
 ==============
 
-Swasth Nirmaan is an application that aims to digitalize and standardize the medical records of the user, making it easier to access and share them with relevant parties. It includes a medical app that securely stores the medical records of the user, shows blood donation camps in their area, recommends the best health-related insurances for the user, and maintains a record of current vital medical information of its user. Additionally, it includes a web interface for Health Service Providers (HSP) and doctors to seek consent from the user to view and update their medical records, and for blood banks to announce the blood donation camps organized and sponsored by them. Finally, it includes a dashboard for companies that shows the current trends of chronic diseases in an Indian state and the medication taken by the users in a particular region.
+Introducing our healthcare software solution - digitalizing and standardizing medical records, making it easy for users to access, share, and manage their records. Features include a user-friendly app for medical records, blood donation camp locator, healthcare professional access, and insurance recommendation. Our dashboard offers valuable insights to companies to improve healthcare plans and services.
 
 About Our Team
 --------------
