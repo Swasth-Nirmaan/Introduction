@@ -3,7 +3,7 @@ Swasth Nirmaan
 
 Introducing our healthcare software solution - digitalizing and standardizing medical records, making it easy for users to access, share, and manage their records. Features include a user-friendly app for medical records, blood donation camp locator, healthcare professional access, and insurance recommendation. Our dashboard offers valuable insights to companies to improve healthcare plans and services.
 
-Note: This README contains links to all the repositories related to the Swasth Nirmaan project.
+*Note: This file contains links to all the repositories related to the Swasth Nirmaan project.
 
 About Our Team
 --------------
